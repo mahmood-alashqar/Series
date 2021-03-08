@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(155, 4, 4);
+}
+h1{
+text-align: center;
+}
+ul{
+list-style-type: none ;
+}
+ul li{
+    display: inline;
+    margin-right: 20px;
+}
+header nav ul li a {
+    text-decoration: none;
+}
+img{
+width: 50%;
+margin: 20px;
+}
+main p  {
+ color:black   
+}
+#redcolored {
+    color:red
+}
+.blue-color{
+    color:blue
+}
